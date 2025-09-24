@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#E11D2E" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#0B0B0D" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0B0B0D"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#g)"/>
+  <g fill="none" stroke="#E11D2E" stroke-opacity="0.35">
+    <rect x="40" y="40" width="1120" height="1120" rx="40" ry="40" stroke-dasharray="6 8"/>
+  </g>
+  <g transform="translate(300,260)" fill="#1A1B1F">
+    <circle cx="300" cy="220" r="160" fill="#131419" stroke="#E11D2E" stroke-opacity="0.2"/>
+    <rect x="60" y="450" width="480" height="300" rx="60" fill="#131419" stroke="#E11D2E" stroke-opacity="0.2"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" fill="#E6E9EF" fill-opacity="0.8" text-anchor="middle">
+    <text x="600" y="1080" font-size="32">Foto no disponible</text>
+  </g>
+</svg>
