@@ -1,4 +1,4 @@
-# Propuesta IA · Pérez y Pérez Abogados
+# P-PAbogados · Propuesta IA para Pérez y Pérez Abogados
 
 Sitio estático con propuesta comercial: 2 charlas, coaching y hoja de ruta ejecutiva, diseñado por Orbital Lab.
 
